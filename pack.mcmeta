@@ -1,7 +1,7 @@
 {
     "pack": {
-        "pack_format": 9,
-		"supported_formats": [9, 13],
-        "description": "\u00a76More Chests Dark Mode 1.19"
+        "pack_format": 8,
+		"supported_formats": [8, 8],
+        "description": "\u00a76More Chests Dark Mode 1.18"
     }
 }
