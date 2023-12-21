@@ -2,7 +2,7 @@
 
 ## More Chests Dark Mode
 
-A Dark Mode resource pack for [More Chests](https://modrinth.com/mod/more-chests) that provides a darker chest GUI that is easier on the eyes! This pack is designed to be used in conjuction with another dark mode resouce pack such as [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/).
+A Dark Mode resource pack for the [More Chests](https://modrinth.com/mod/more-chests) mod that provides a darker chest GUI that is easier on the eyes! This pack is designed to be used in conjuction with another dark mode resouce pack such as [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/).
 
 ### Looking for the mod?
 
